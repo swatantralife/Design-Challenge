@@ -1,4 +1,3 @@
-Sure, let's delve deeper into the system architecture for the Customer Utility Bill Management System. The architecture will be designed to meet the requirements of retrieving and managing customer utility bills and ensuring secure, reliable, and scalable operation. Here's a more detailed breakdown of the system architecture:
 
 **1. Frontend:**
    - The frontend will provide a user-friendly web interface for both customers and administrators.
